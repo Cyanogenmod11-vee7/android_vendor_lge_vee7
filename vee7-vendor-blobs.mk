@@ -33,8 +33,6 @@ PRODUCT_COPY_FILES += \
  vendor/lge/vee7/bin/rmt_storage:system/bin/rmt_storage \
  vendor/lge/vee7/bin/sensord:system/bin/sensord \
  vendor/lge/vee7/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
- /vendor/lge/vee7/bin/fmconfig:system/bin/fmconfig \
- /vendor/lge/vee7/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
  
 # HAL
 PRODUCT_COPY_FILES += \
@@ -168,4 +166,3 @@ PRODUCT_COPY_FILES += \
 # NFC
 PRODUCT_COPY_FILES += \
  vendor/lge/vee7/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
-
