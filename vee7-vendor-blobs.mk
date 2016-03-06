@@ -83,8 +83,6 @@ PRODUCT_COPY_FILES += \
  vendor/lge/vee7/lib/libOmxWmvDec.so:system/lib/libOmxWmvDec.so \
  vendor/lge/vee7/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
  vendor/lge/vee7/lib/libdivxdrmdecrypt.so:system/lib/libdivxdrmdecrypt.so \
- vendor/lge/vee7/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
- vendor/lge/vee7/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
  vendor/lge/vee7/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
  vendor/lge/vee7/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
  vendor/lge/vee7/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
